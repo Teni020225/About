@@ -1,5 +1,5 @@
 <h1 align="center">I'm Teni</h1>
-- Currently Studying **Computer Engineering**
+- Currently Studying - Computer Engineering
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
